@@ -20,7 +20,7 @@ started. 🚀
       │   ├── 📂 class_features
       ├── reading_and_processing_data_script.ipynb
       ├── README.md
-      └── ...
+      └── requirements.txt
       ```
 
 ---
